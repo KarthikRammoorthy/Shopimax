@@ -1,0 +1,18 @@
+[
+    {
+      "ShopName": "Adidas",
+      "ShopStreet": "2001 Brunswick Street",
+      "ShopCity": "Halifax",
+      "ShopState": "Nova Scotia",
+      "ShopCountry": "Canada",
+      "ShopZip": "B3J3J7"
+    },
+    {
+        "ShopName": "Nike",
+        "ShopStreet": "2351 South Street",
+        "ShopCity": "Halifax",
+        "ShopState": "Nova Scotia",
+        "ShopCountry": "Canada",
+        "ShopZip": "B4B567"
+      }
+  ]

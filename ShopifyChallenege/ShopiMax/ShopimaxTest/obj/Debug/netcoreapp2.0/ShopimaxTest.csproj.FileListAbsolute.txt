@@ -1,0 +1,15 @@
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/bin/Debug/netcoreapp2.0/ShopimaxTest.deps.json
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/bin/Debug/netcoreapp2.0/ShopimaxTest.runtimeconfig.json
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/bin/Debug/netcoreapp2.0/ShopimaxTest.runtimeconfig.dev.json
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/bin/Debug/netcoreapp2.0/ShopimaxTest.dll
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/bin/Debug/netcoreapp2.0/ShopimaxTest.pdb
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/obj/Debug/netcoreapp2.0/ShopimaxTest.csprojAssemblyReference.cache
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/obj/Debug/netcoreapp2.0/ShopimaxTest.csproj.CoreCompileInputs.cache
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/obj/Debug/netcoreapp2.0/ShopimaxTest.AssemblyInfoInputs.cache
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/obj/Debug/netcoreapp2.0/ShopimaxTest.AssemblyInfo.cs
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/obj/Debug/netcoreapp2.0/ShopimaxTest.dll
+/Users/karthikrammoorthy/DotnetProject/ShopiMax/ShopimaxTest/obj/Debug/netcoreapp2.0/ShopimaxTest.pdb

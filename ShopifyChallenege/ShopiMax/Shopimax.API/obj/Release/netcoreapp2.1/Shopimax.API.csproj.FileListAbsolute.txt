@@ -1,0 +1,14 @@
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/bin/Release/netcoreapp2.1/Shopimax.API.deps.json
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/bin/Release/netcoreapp2.1/Shopimax.API.runtimeconfig.json
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/bin/Release/netcoreapp2.1/Shopimax.API.runtimeconfig.dev.json
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/bin/Release/netcoreapp2.1/Shopimax.API.dll
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/bin/Release/netcoreapp2.1/Shopimax.API.pdb
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/obj/Release/netcoreapp2.1/Shopimax.API.csprojAssemblyReference.cache
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/obj/Release/netcoreapp2.1/Shopimax.API.csproj.CoreCompileInputs.cache
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/obj/Release/netcoreapp2.1/Shopimax.API.RazorAssemblyInfo.cache
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/obj/Release/netcoreapp2.1/Shopimax.API.RazorAssemblyInfo.cs
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/obj/Release/netcoreapp2.1/Shopimax.API.AssemblyInfoInputs.cache
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/obj/Release/netcoreapp2.1/Shopimax.API.AssemblyInfo.cs
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/obj/Release/netcoreapp2.1/Shopimax.API.RazorTargetAssemblyInfo.cache
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/obj/Release/netcoreapp2.1/Shopimax.API.dll
+/Users/karthikrammoorthy/DotnetProject/Shopimax.API/obj/Release/netcoreapp2.1/Shopimax.API.pdb
